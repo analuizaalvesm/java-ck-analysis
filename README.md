@@ -40,7 +40,7 @@ A ferramenta gera um arquivo `.csv` contendo as métricas extraídas de cada rep
   - Java 21
   - Maven
 
-### 🚀 Preparação do Ambiente
+### Configuração de Ambiente
 
 **1. Clone este repositório:**
 
