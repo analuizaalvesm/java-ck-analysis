@@ -318,10 +318,10 @@ A tabela a seguir apresenta a relação entre cada questão de pesquisa e as mé
 
 | RQ   | Pergunta                                                                                      | Métrica de Processo                               | Métricas de Qualidade (CK) | Código da Métrica |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------- | ----------------- |
-| RQ01 | Qual a relação entre a **popularidade** dos repositórios e suas características de qualidade? | ⭐ Número de estrelas                             | CBO, DIT, LCOM             | LM06              |
-| RQ02 | Qual a relação entre a **maturidade** dos repositórios e suas características de qualidade?   | 🕰 Idade (anos)                                    | CBO, DIT, LCOM             | LM01              |
-| RQ03 | Qual a relação entre a **atividade** dos repositórios e suas características de qualidade?    | 📦 Número de releases                             | CBO, DIT, LCOM             | LM03              |
-| RQ04 | Qual a relação entre o **tamanho** dos repositórios e suas características de qualidade?      | 📏 Linhas de código (LOC) e linhas de comentários | CBO, DIT, LCOM             | LM08, AM05, AM06  |
+| RQ01 | Qual a relação entre a **popularidade** dos repositórios e suas características de qualidade? | Número de estrelas                             | CBO, DIT, LCOM             | LM06              |
+| RQ02 | Qual a relação entre a **maturidade** dos repositórios e suas características de qualidade?   | Idade (anos)                                    | CBO, DIT, LCOM             | LM01              |
+| RQ03 | Qual a relação entre a **atividade** dos repositórios e suas características de qualidade?    | Número de releases                             | CBO, DIT, LCOM             | LM03              |
+| RQ04 | Qual a relação entre o **tamanho** dos repositórios e suas características de qualidade?      | Linhas de código (LOC) e linhas de comentários | CBO, DIT, LCOM             | LM08, AM05, AM06  |
 
 ---
 
